@@ -409,7 +409,3 @@ p {
 .socials__item--icon--in .socials__link:hover {
     background-image: url(in-hover.png);
 }
-
-.footer .logo {
-    margin-right: 130px;
-}
