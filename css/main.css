@@ -37,8 +37,9 @@ a {
 }
 
 .main--page--wrapper {
-    background: url("../img/hero.png") center top no-repeat, url("../img/bottom-pic.png") center bottom 306px no-repeat;
+    background: url("../img/hero.png") center top no-repeat, url("../img/bottom-pic.png") center bottom 350px no-repeat;
 }
+
 .container {
     margin: 0 auto;
     width: 1150px;
@@ -329,6 +330,10 @@ a {
 .about:before, .about__desc {
     display: inline-block;
     vertical-align: top;
+}
+
+.section--about {
+    margin-bottom: 0px;
 }
 
 .about:before {
