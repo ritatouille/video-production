@@ -1,0 +1,21 @@
+.top-line {
+    min-height: 394px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    background: #17191C url("../../img/top-line.png") right top no-repeat;
+}
+
+.top-line__container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.page-title {
+    font-size: 72px;
+    text-transform: uppercase;
+    line-height: 1;
+    font-weight: 800;
+}

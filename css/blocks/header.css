@@ -1,0 +1,55 @@
+.header {
+    padding-top: 30px;
+    margin-bottom: 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 160px;
+}
+
+.header--services {
+    margin-bottom: 0px;
+}
+
+.header__col {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.header__col--align--right {
+    justify-content: flex-end;
+}
+
+.logo {
+    display: block;
+    margin-right: 241px;
+}
+
+.logo--services {
+    display: block;
+    margin-right: 0px;
+}
+
+.menu__item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 64px;
+}
+
+.menu__item--active .menu__link {
+    color: #ff3d00;
+}
+
+.menu__item:last-child {
+    margin-right: 0;
+}
+
+.menu__link {
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.menu__link:hover {
+    color: #FF3D00;
+}

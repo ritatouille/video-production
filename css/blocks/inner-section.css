@@ -1,0 +1,23 @@
+.inner-section {
+    background: #17191c;
+    color: #1a1b1e;
+    padding: 80px 0;
+}
+
+.inner-section--bg--grey {
+    background: #f4f5f5;
+}
+
+.inner-section__title {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 75px;
+}
+
+.inner-footer__container {
+    padding: 40px 0;
+}
+
+.inner-footer {
+    margin-top: auto;
+}
