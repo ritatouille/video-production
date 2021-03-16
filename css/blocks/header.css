@@ -1,5 +1,5 @@
 .header {
-    padding-top: 30px;
+    padding-top: 23px;
     margin-bottom: 140px;
     display: flex;
     justify-content: space-between;
@@ -34,7 +34,7 @@
 .menu__item {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 64px;
+    margin-right: 60px;
 }
 
 .menu__item--active .menu__link {
