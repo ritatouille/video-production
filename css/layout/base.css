@@ -40,6 +40,12 @@ a {
     color: inherit;
 }
 
+button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
 img {
     display: block;
     max-width: 100%;
@@ -63,7 +69,7 @@ img {
 }
 
 .section {
-    margin-bottom: 180px;
+    margin-bottom: 146px;
 }
 
 .section:last-child {
