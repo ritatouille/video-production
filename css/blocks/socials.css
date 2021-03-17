@@ -22,33 +22,33 @@
 }
 
 .socials__item--icon--tg .socials__link {
-    background: url("../../img/socials-sprites.png") -122px -10px;
+    background: url("../../img/socials/socials-sprites.png") -122px -10px;
 }
 
 .socials__item--icon--tg .socials__link:hover {
-    background: url("../../img/socials-sprites.png") -122px -66px;
+    background: url("../../img/socials/socials-sprites.png") -122px -66px;
 }
 
 .socials__item--icon--vk .socials__link {
-    background: url("../../img/socials-sprites.png") -10px -122px;
+    background: url("../../img/socials/socials-sprites.png") -10px -122px;
 }
 
 .socials__item--icon--vk .socials__link:hover {
-    background: url("../../img/socials-sprites.png") -66px -122px;
+    background: url("../../img/socials/socials-sprites.png") -66px -122px;
 }
 
 .socials__item--icon--fb .socials__link {
-    background: url("../../img/socials-sprites.png") -10px -66px;
+    background: url("../../img/socials/socials-sprites.png") -10px -66px;
 }
 
 .socials__item--icon--fb .socials__link:hover {
-    background: url("../../img/socials-sprites.png") -66px -66px;
+    background: url("../../img/socials/socials-sprites.png") -66px -66px;
 }
 
 .socials__item--icon--in .socials__link {
-    background: url("../../img/socials-sprites.png") -10px -10px;
+    background: url("../../img/socials/socials-sprites.png") -10px -10px;
 }
 
 .socials__item--icon--in .socials__link:hover {
-    background: url("../../img/socials-sprites.png") -66px -10px;
+    background: url("../../img/socials/socials-sprites.png") -66px -10px;
 }
