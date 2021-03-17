@@ -1,5 +1,5 @@
 .header {
-    padding-top: 23px;
+    padding-top: 30px;
     margin-bottom: 140px;
     display: flex;
     justify-content: space-between;
@@ -34,7 +34,8 @@
 .menu__item {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 60px;
+    margin-right: 51px;
+	padding-top: 13px;
 }
 
 .menu__item--active .menu__link {
@@ -48,6 +49,7 @@
 .menu__link {
     font-size: 14px;
     text-decoration: none;
+    transition: .5s;
 }
 
 .menu__link:hover {

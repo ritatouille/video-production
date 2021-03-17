@@ -8,7 +8,7 @@
 .services {
     display: flex;
     flex-direction: column;
-    margin-bottom:64px;
+    margin-bottom: 70px;
     background: #fff;
 }
 
@@ -38,12 +38,11 @@
     font-weight: 700;
     margin-bottom: 28px;
     color: #000;
-	padding-top: 12px;
 }
 
 .services__desc {
-    line-height: 1.8;
-    margin-bottom: 43px;
+    line-height: 1.7;
+    margin-bottom: 53px;
     color: #000;
 }
 

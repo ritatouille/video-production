@@ -11,8 +11,8 @@
     min-height: 476px;
     background: #fff;
     border-radius: 5px;
-    width: calc(100% / 3 - 18px);
-    margin-top: 233px;
+    width: calc(100% / 3 - 20px);
+    margin-top: 249px;
     margin-bottom: 180px;
     border: 5px solid #fff;
 }
@@ -26,15 +26,15 @@
 }
 
 .offers__header {
-    min-height: 116px;
+    min-height: 71px;
     margin-bottom: 30px;
     position: relative;
 }
 
 .offers__header-img {
     position: absolute;
-    top: 36px;
-    left: 36px;
+    top: 32px;
+    left: 25px;
 }
 .offers__content {
     padding: 40px 20px;

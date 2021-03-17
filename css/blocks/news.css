@@ -1,7 +1,7 @@
 .news {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 58px;
+    margin-bottom: 51px;
 }
 
 .news__item {
@@ -31,7 +31,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    padding: 25px 30px;
+    padding: 35px 30px;
     min-height: 140px;
 }
 

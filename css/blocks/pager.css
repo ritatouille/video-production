@@ -29,6 +29,7 @@
     text-decoration: none;
     font-weight: 700;
     line-height: 32px;
+    transition: .3s;
 }
 
 .pager__link:hover {

@@ -6,6 +6,7 @@
     display: inline-block;
     vertical-align: middle;
     margin-right: 10px;
+	transition: background-position .3s;
 }
 
 .socials__item:last-child {
@@ -21,33 +22,33 @@
 }
 
 .socials__item--icon--tg .socials__link {
-    background-image: url(../../img/socials/tg.png);
+    background: url("../../img/socials-sprites.png") -122px -10px;
 }
 
 .socials__item--icon--tg .socials__link:hover {
-    background-image: url(../../img/tg-hover.png);
+    background: url("../../img/socials-sprites.png") -122px -66px;
 }
 
 .socials__item--icon--vk .socials__link {
-    background-image: url(../../img/vk.png);
+    background: url("../../img/socials-sprites.png") -10px -122px;
 }
 
 .socials__item--icon--vk .socials__link:hover {
-    background-image: url(../../img/vk-hover.png);
+    background: url("../../img/socials-sprites.png") -66px -122px;
 }
 
 .socials__item--icon--fb .socials__link {
-    background-image: url(../../img/fb.png);
+    background: url("../../img/socials-sprites.png") -10px -66px;
 }
 
 .socials__item--icon--fb .socials__link:hover {
-    background-image: url(../../img/fb-hover.png);
+    background: url("../../img/socials-sprites.png") -66px -66px;
 }
 
 .socials__item--icon--in .socials__link {
-    background-image: url(../../img/in.png);
+    background: url("../../img/socials-sprites.png") -10px -10px;
 }
 
 .socials__item--icon--in .socials__link:hover {
-    background-image: url(../../img/in-hover.png);
+    background: url("../../img/socials-sprites.png") -66px -10px;
 }

@@ -6,11 +6,12 @@
 .partners__link {
     text-decoration: none;
     display: flex;
-    width: 200px;
-    height: 130px;
+    width: 230px;
+    height: 100px;
     align-items: center;
     justify-content: flex-start;
     filter: grayscale(100%);
+    transition: .2s;
 }
 
 .partners__link:hover {
@@ -18,22 +19,5 @@
 }
 
 .partners__item {
-    margin-right: 110px;
-}
-
-.partners__item:nth-child(2n+2) {
-	margin-right: 0;
-}
-
-.partners__item:nth-child(2) {
-	padding-left: 60px;
-	margin-right: 70px;
-}
-
-.partners__item:nth-child(6) {
-	margin-right: 78px;
-}
-
-.partners__item:nth-child(7) {
-	margin-right: 141px;
+    margin-right: 50px;
 }
