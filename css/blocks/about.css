@@ -16,13 +16,13 @@
 
 .about__desc {
     background: #fff;
-    padding: 70px 81px;
+    padding: 70px 81px 39px;
     max-width: 785px;
     min-height: 455px;
-    margin-left: -137px;
-    margin-top: 96px;
+    margin-left: -136px;
+    margin-top: 97px;
     border-radius: 5px;
-    margin-bottom: 61px;
+    margin-bottom: 53px;
 }
 
 .about__title {
@@ -39,7 +39,8 @@
     font-size: 16px;
     font-weight: 400;
     text-transform: none;
-    margin-bottom: 61px;
+    margin-bottom: 59px;
+    line-height: 1.8;
 }
 
 .about__desc-text p {

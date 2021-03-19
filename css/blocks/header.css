@@ -9,6 +9,7 @@
 
 .header--services {
     margin-bottom: 0px;
+    padding-top: 24px;
 }
 
 .header__col {
@@ -24,6 +25,8 @@
 .logo {
     display: block;
     margin-right: 241px;
+    width: 198px;
+    height: 46px;
 }
 
 .logo--services {
@@ -34,8 +37,7 @@
 .menu__item {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 51px;
-	padding-top: 13px;
+    margin-right: 50px;
 }
 
 .menu__item--active .menu__link {

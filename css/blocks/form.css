@@ -3,10 +3,6 @@
     margin-bottom: 26px;
 }
 
-textarea:focus, input:focus, button:focus {
-	outline: none;
-}
-
 .form__input {
     flex: 1;
     margin-right: 30px;
@@ -18,11 +14,7 @@ textarea:focus, input:focus, button:focus {
     color: #1a1b1e;
 }
 
-.form__input:focus {
-	border: 1px solid #ccc;
-}
-
-.form__input:placeholder {
+.form__input::placeholder {
     color: #666;
 }
 
@@ -36,7 +28,7 @@ textarea:focus, input:focus, button:focus {
 
 .form__controls {
     display: flex;
-    margin-bottom: 33px;
+    margin-bottom: 24px;
 }
 
 .form__controls-title {

@@ -14,14 +14,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-	width: 1128px;
-	height: 643px;
-    background: url("../../img/welcome/rec.png") center bottom / cover no-repeat;
 }
 
 .central__logo {
-	margin-top: 220px;
-	margin-bottom: 38px;
+    margin-bottom: 38px;
+}
+
+.central__logo:before {
+    background: url("../../img/welcome/rec.png") center bottom / cover no-repeat;
 }
 
 .central--video {

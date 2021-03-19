@@ -1,3 +1,7 @@
+.page-content--reviews {
+    padding-bottom: 86px;
+}
+
 .reviews {
     column-count: 2;
     column-gap: 27px;
@@ -8,7 +12,7 @@
 }
 
 .reviews__item:last-child {
-    margin-bottom: 70px;
+    margin-bottom: 63px;
 }
 
 .review {
@@ -33,7 +37,7 @@
 .review__header {
     display: flex;
     align-items: center;
-    margin-bottom: 27px;
+    margin-bottom: 32px;
 }
 
 .review__user {
@@ -42,13 +46,13 @@
     font-size: 24px;
     font-weight: 700;
     color: #2E77A4;
-    margin-bottom: 13px;
+    margin-bottom: 14px;
 }
 
 .review__user:after {
     content: url("../../img/vk-blue.png");
     height: 30px;
-    margin-left: 7px;
+    margin-left: 11px;
 }
 
 .review__tags {
@@ -78,6 +82,7 @@
 .review__content-text {
     color: #818181;
     margin-bottom: 48px;
+    line-height: 1.7;
 }
 
 .review__date {

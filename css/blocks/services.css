@@ -8,7 +8,7 @@
 .services {
     display: flex;
     flex-direction: column;
-    margin-bottom: 59px;
+    margin-bottom: 63px;
     background: #fff;
 }
 
@@ -42,7 +42,7 @@
 
 .services__desc {
     line-height: 1.7;
-    margin-bottom: 53px;
+    margin-bottom: 60px;
     color: #000;
 }
 

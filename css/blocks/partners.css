@@ -20,4 +20,26 @@
 
 .partners__item {
     margin-right: 50px;
+    margin-bottom: 36px;
+}
+
+.partners__item:nth-child(2) {
+    padding-left: 50px;
+}
+
+.partners__item:nth-child(3) {
+    margin-right: 80px;
+}
+
+.partners__item:nth-child(4) {
+    margin-right: 0px;
+}
+
+.partners__item:nth-child(7) {
+    padding-left: 25px;
+}
+
+.partners__item:last-child {
+    margin-right: 0;
+    padding-left: 55px;
 }

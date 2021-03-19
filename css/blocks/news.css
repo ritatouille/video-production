@@ -31,7 +31,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    padding: 35px 30px;
+    padding: 39px 30px;
     min-height: 140px;
 }
 
@@ -43,5 +43,5 @@
 .news__title {
     font-size: 24px;
     font-weight: 700;
-    margin-bottom: 7px;
+    margin-bottom: 5px;
 }
