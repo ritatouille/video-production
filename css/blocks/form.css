@@ -14,6 +14,10 @@
     color: #1a1b1e;
 }
 
+.form__input:focus {
+    border: 1px solid #ccc;
+}
+
 .form__input::placeholder {
     color: #666;
 }
