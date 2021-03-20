@@ -51,6 +51,10 @@ img {
     max-width: 100%;
 }
 
+input:focus, button:focus, textarea:focus {
+    outline: none;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -69,7 +73,7 @@ img {
 }
 
 .section {
-    margin-bottom: 146px;
+    margin-bottom: 147px;
 }
 
 .section:last-child {
